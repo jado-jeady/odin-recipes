@@ -14,9 +14,7 @@ This website featuring three enticing recipes. Each recipe has its own dedicated
 
 ## lets connect :smile:
  
- {At Youtube :heart: :smile:}(https://www.youtube.com/@letdo3449)
+ [At Youtube :heart: :smile:](https://www.youtube.com/@letdo3449)
 
 @jado-jeady :heartbeat:
-
-
 
